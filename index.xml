@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0xPwny Blog</title>
+    <link>https://0xpwny.github.io/</link>
+    <description>Recent content from 0xPwny Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    
+    <managingEditor>xxx@example.com (0xPwny)</managingEditor>
+    <webMaster>xxx@example.com (0xPwny)</webMaster>
+    
+    <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
+    
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://0xpwny.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>HTB - Signed</title>
+      <link>https://0xpwny.github.io/post/signed/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <author>xxx@example.com (0xPwny)</author>
+      <guid>https://0xpwny.github.io/post/signed/</guid>
+      <description>
+        <![CDATA[<h1>HTB - Signed</h1><p>Author: 0xPwny(xxx@example.com)</p>
+        
+          
+        
+        <hr><p>Published on 2023-03-15 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 2023-03-15</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>HTB - Gavel</title>
+      <link>https://0xpwny.github.io/post/gavrl/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <author>xxx@example.com (0xPwny)</author>
+      <guid>https://0xpwny.github.io/post/gavrl/</guid>
+      <description>
+        <![CDATA[<h1>HTB - Gavel</h1><p>Author: 0xPwny(xxx@example.com)</p>
+        
+          
+        
+        <hr><p>Published on 2023-03-15 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 2023-03-15</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>HTB - Fries</title>
+      <link>https://0xpwny.github.io/post/fries/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <author>xxx@example.com (0xPwny)</author>
+      <guid>https://0xpwny.github.io/post/fries/</guid>
+      <description>
+        <![CDATA[<h1>HTB - Fries</h1><p>Author: 0xPwny(xxx@example.com)</p>
+        
+          <h3 id="re">
+<a class="header-anchor" href="#re"></a>
+re
+</h3><p>ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">os</span> 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">test</span> <span class="o">=</span> <span class="s2">&#34;fdfd&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">dsD</span><span class="p">(){</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;fdf&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><p>ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf
+ererere dfd dfdf dsf dsf sdf dsf dsf</p>
+        
+        <hr><p>Published on 2023-03-15 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 2023-03-15</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>
