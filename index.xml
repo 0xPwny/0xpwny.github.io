@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0xPwny Blog</title>
-    <link>https://0xpwny.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content from 0xPwny Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
     
     
-    <atom:link href="https://0xpwny.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>POST - ONE</title>
-      <link>https://0xpwny.github.io/post/fries/</link>
+      <link>http://localhost:1313/post/fries/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
       <author>xxx@example.com (0xPwny)</author>
-      <guid>https://0xpwny.github.io/post/fries/</guid>
+      <guid>http://localhost:1313/post/fries/</guid>
       <description>
         <![CDATA[<h1>POST - ONE</h1><p>Author: 0xPwny(xxx@example.com)</p>
         
@@ -41,7 +41,7 @@ re
 </span></span><span class="line"><span class="cl"><span class="p">}</span>
 </span></span></code></pre></div><p>ererere dfd dfdf dsf dsf sdf dsf dsf</p>
         
-        <hr><p>Published on 2023-03-15 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 2023-03-15</p>]]>
+        <hr><p>Published on 2023-03-15 at <a href='http://localhost:1313/'>0xPwny Blog</a>, last modified on 2023-03-15</p>]]>
       </description>
       
     </item>
