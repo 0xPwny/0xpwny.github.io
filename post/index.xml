@@ -12,12 +12,30 @@
     
     <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
     
-    <lastBuildDate>Tue, 01 Jan 1337 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
     
     
     <atom:link href="https://0xpwny.github.io/post/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
+    
+    
+
+    <item>
+      <title>MSSQL Procedure For Fun and Profit</title>
+      <link>https://0xpwny.github.io/post/simple/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 &#43;0000</pubDate>
+      <author>xxx@example.com (0xPwny)</author>
+      <guid>https://0xpwny.github.io/post/simple/</guid>
+      <description>
+        <![CDATA[<h1>MSSQL Procedure For Fun and Profit</h1><p>Author: 0xPwny(xxx@example.com)</p>
+        
+          <p>dsffds</p>
+        
+        <hr><p>Published on 2026-02-07 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 2026-02-07</p>]]>
+      </description>
+      
+    </item>
     
     
 
