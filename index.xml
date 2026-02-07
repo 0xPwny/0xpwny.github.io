@@ -23,14 +23,15 @@
 
     <item>
       <title>MSSQL Procedure For Fun and Profit</title>
-      <link>https://0xpwny.github.io/post/simple/</link>
+      <link>https://0xpwny.github.io/post/mssql-procs-ffp/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (0xPwny)</author>
-      <guid>https://0xpwny.github.io/post/simple/</guid>
+      <guid>https://0xpwny.github.io/post/mssql-procs-ffp/</guid>
       <description>
         <![CDATA[<h1>MSSQL Procedure For Fun and Profit</h1><p>Author: 0xPwny(xxx@example.com)</p>
         
-          <p>dsffds</p>
+          <p>I’ve been putting off a bunch of articles and ideas I wanted to write about for a while. Between work, day-to-day responsibilities, and a nice little dose of burnout, blogging kept getting pushed to the side.</p>
+<p>Lately though, the motivation started creeping back in. So I decided to finally sit down and write again. For this first technical post, I picked MSSQL as a target to play around with and dig into,Mainly to explore some of the attack surface it exposes and why it’s often more interesting (and dangerous) than people give it credit for.</p>
         
         <hr><p>Published on 2026-02-07 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 2026-02-07</p>]]>
       </description>
