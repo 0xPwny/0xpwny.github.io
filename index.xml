@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0xPwny Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://0xpwny.github.io/</link>
     <description>Recent content from 0xPwny Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
     
     
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://0xpwny.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,17 +23,17 @@
 
     <item>
       <title>MSSQL Procedure For Fun and Profit</title>
-      <link>http://localhost:1313/post/mssql-procs-ffp/</link>
+      <link>https://0xpwny.github.io/post/mssql-procs-ffp/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (0xPwny)</author>
-      <guid>http://localhost:1313/post/mssql-procs-ffp/</guid>
+      <guid>https://0xpwny.github.io/post/mssql-procs-ffp/</guid>
       <description>
         <![CDATA[<h1>MSSQL Procedure For Fun and Profit</h1><p>Author: 0xPwny(xxx@example.com)</p>
         
           <p>I’ve been putting off a bunch of articles and ideas I wanted to write about for a while. Between work, day-to-day responsibilities, and a nice little dose of burnout, blogging kept getting pushed to the side.</p>
 <p>Lately though, the motivation started creeping back in. So I decided to finally sit down and write again. For this first technical post, I picked MSSQL as a target to play around with and dig into,Mainly to explore some of the attack surface it exposes and why it’s often more interesting (and dangerous) than people give it credit for.</p>
         
-        <hr><p>Published on 2026-02-07 at <a href='http://localhost:1313/'>0xPwny Blog</a>, last modified on 2026-02-07</p>]]>
+        <hr><p>Published on 2026-02-07 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 2026-02-07</p>]]>
       </description>
       
     </item>
@@ -42,16 +42,16 @@
 
     <item>
       <title>Nothing to see here</title>
-      <link>http://localhost:1313/post/hello-msg/</link>
+      <link>https://0xpwny.github.io/post/hello-msg/</link>
       <pubDate>Tue, 01 Jan 1337 11:00:00 -0700</pubDate>
       <author>xxx@example.com (0xPwny)</author>
-      <guid>http://localhost:1313/post/hello-msg/</guid>
+      <guid>https://0xpwny.github.io/post/hello-msg/</guid>
       <description>
         <![CDATA[<h1>Nothing to see here</h1><p>Author: 0xPwny(xxx@example.com)</p>
         
           <p>This just something to fill the first blog post</p>
         
-        <hr><p>Published on 1337-01-01 at <a href='http://localhost:1313/'>0xPwny Blog</a>, last modified on 1337-01-01</p>]]>
+        <hr><p>Published on 1337-01-01 at <a href='https://0xpwny.github.io/'>0xPwny Blog</a>, last modified on 1337-01-01</p>]]>
       </description>
       
     </item>
