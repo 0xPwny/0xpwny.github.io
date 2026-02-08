@@ -147,6 +147,9 @@ This article does not have a corresponding language version
     <li>
       <ul>
         <li><a href="#mssql">MSSQL</a></li>
+        <li><a href="#history-of-microsoft-sql-server">History of Microsoft SQL Server:</a></li>
+        <li><a href="#mssql-procedures">MSSQL Procedures.</a></li>
+        <li><a href="#security-">Security ?</a></li>
       </ul>
     </li>
   </ul>
@@ -227,8 +230,31 @@ This article does not have a corresponding language version
 <a class="header-anchor" href="#mssql"></a>
 MSSQL
 </h3><p>Microsoft SQL Server is a proprietary relational database management system developed by Microsoft using Structured Query Language (SQL, often pronounced &ldquo;sequel&rdquo;). As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications—which may run either on the same computer or on another computer across a network (including the Internet). Microsoft markets at least a dozen different editions of Microsoft SQL Server, aimed at different audiences and for workloads ranging from small single-machine applications to large Internet-facing applications with many concurrent users.</p>
-<p><img src="https://github.com/0xPwny/0xpwny.github.io/blob/main/images/blogimages/mssql-miles.png?raw=true" alt="alt text"></p>
-</div>
+<h3 id="history-of-microsoft-sql-server">
+<a class="header-anchor" href="#history-of-microsoft-sql-server"></a>
+History of Microsoft SQL Server:
+</h3><p><img src="https://github.com/0xPwny/0xpwny.github.io/blob/main/images/blogimages/mssql-miles.png?raw=true" alt="alt text"></p>
+<p>then after 2019 we have 2 more new releases SQL Server 2022 (16.0) and SQL Server 2025 (17.0) .</p>
+<p>This really highlights how long Microsoft SQL Server has been around. With that much history behind it, a lot of development decisions pile up over time. Features get introduced, changed, deprecated, and sometimes forgotten and some of those legacy capabilities still exist today in ways that can be… interesting from a security point of view.</p>
+<h3 id="mssql-procedures">
+<a class="header-anchor" href="#mssql-procedures"></a>
+MSSQL Procedures.
+</h3><p>At a high level, a stored procedure is just pre-written SQL code that lives inside the database and can be executed whenever you need it. Instead of rewriting the same query over and over again in your application or scripts, you can wrap that logic into a stored procedure and simply call it when needed.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-SQL" data-lang="SQL"><span class="line"><span class="cl"><span class="k">CREATE</span><span class="w"> </span><span class="k">PROCEDURE</span><span class="w"> </span><span class="n">dbo</span><span class="p">.</span><span class="n">HelloWorld</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="k">AS</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="k">BEGIN</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="k">SELECT</span><span class="w"> </span><span class="s1">&#39;Hello from MSSQL stored procedures!&#39;</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">message</span><span class="p">;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="k">END</span><span class="p">;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="k">GO</span><span class="w">
+</span></span></span></code></pre></div><p>Within MSSQL, Microsoft provides a large number of built-in stored procedures that are meant to make a DBA’s life easier. These procedures help with day-to-day administration tasks, monitoring, and general database management, so you don’t have to reinvent the wheel for common operations.</p>
+<p>examples :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-SQL" data-lang="SQL"><span class="line"><span class="cl"><span class="k">EXEC</span><span class="w"> </span><span class="n">sp_helpdb</span><span class="p">;</span><span class="w"> </span><span class="cm">/*Returns information about databases*/</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="k">EXEC</span><span class="w"> </span><span class="n">sp_spaceused</span><span class="p">;</span><span class="w"> </span><span class="cm">/*Provides space usage for a specific database or table.*/</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="k">EXEC</span><span class="w"> </span><span class="n">xp_getnetname</span><span class="p">;</span><span class="w"> </span><span class="cm">/*Returns the name of the physical machine where Microsoft SQL Server is installed*/</span><span class="w">
+</span></span></span></code></pre></div><h3 id="security-">
+<a class="header-anchor" href="#security-"></a>
+Security ?
+</h3></div>
     <footer class="article-footer"><ul class="article-category-list"></ul>
 <ul class="article-tag-list" itemprop="keywords"></ul>
 </footer>
@@ -257,10 +283,10 @@ MSSQL
       <span class="icon-copyright"></span>2026<span class="footer-info-sep rotate"></span>0xPwny
     </div><div>
         <span class="icon-brush"
-          >&nbsp;199</span
+          >&nbsp;429</span
         >
         &nbsp;|&nbsp;
-        <span class="icon-coffee">&nbsp;00:02</span>
+        <span class="icon-coffee">&nbsp;00:03</span>
       </div><div>
         <span class="icon-eye"></span>
         <span id="busuanzi_container_site_pv"
@@ -289,6 +315,9 @@ MSSQL
     <li>
       <ul>
         <li><a href="#mssql">MSSQL</a></li>
+        <li><a href="#history-of-microsoft-sql-server">History of Microsoft SQL Server:</a></li>
+        <li><a href="#mssql-procedures">MSSQL Procedures.</a></li>
+        <li><a href="#security-">Security ?</a></li>
       </ul>
     </li>
   </ul>
